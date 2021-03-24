@@ -1,0 +1,3 @@
+登录地址:http://47.108.194.8:10004/
+默认账号:linbin@sinochem.com
+默认密码:linbin@123
